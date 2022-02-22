@@ -1,6 +1,6 @@
 # here we create game - guess the number
 
-n=5 #total number of guess
+n=5 #we have to find 5 in limit of guesses
 
 no_of_guess=1 #start with 1
 print("Number of guess is 5")
